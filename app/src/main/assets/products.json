@@ -22,7 +22,7 @@
     "name": "Wireless Earbuds",
     "price": 199.99,
     "rating": 4.7,
-    "imageUrl": "https://images.unsplash.com/photo-1573496529574-be87fabf2a50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "imageUrl": "https://m.media-amazon.com/images/I/51fkoZe-K6L._SL1500_.jpg",
     "category": "Audio",
     "specification": "Noise-canceling wireless earbuds with 24-hour battery life and quick charging."
   },
@@ -31,7 +31,7 @@
     "name": "Smartwatch",
     "price": 249.99,
     "rating": 4.3,
-    "imageUrl": "https://images.unsplash.com/photo-1583422405603-28b1a75b009c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "imageUrl": "https://m.media-amazon.com/images/I/71g-u-Gdk-L._SL1500_.jpg",
     "category": "Wearables",
     "specification": "Fitness-focused smartwatch with heart rate monitoring, GPS, and customizable watch faces."
   },
@@ -40,7 +40,7 @@
     "name": "Bluetooth Speaker",
     "price": 129.99,
     "rating": 4.6,
-    "imageUrl": "https://images.unsplash.com/photo-1581589305098-8800a6f1af5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wAXhzCmnS._SL1500_.jpg",
     "category": "Audio",
     "specification": "Portable Bluetooth speaker with 12-hour battery life and waterproof design."
   },
@@ -49,7 +49,7 @@
     "name": "Mechanical Keyboard",
     "price": 99.99,
     "rating": 4.7,
-    "imageUrl": "https://images.unsplash.com/photo-1555617117-08a74d099e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OEa5GDg3L._SL1500_.jpg",
     "category": "Accessories",
     "specification": "RGB backlit mechanical keyboard with customizable macros and tactile switches."
   },
